@@ -16,7 +16,7 @@ Acompanhar o mundo eletronico
 
 <h4> Experiencias </h4>
 Tenho experiencia com:
-Linguagem Python
+<b2>Linguagem Python</b2>
 códigos que contem
 estrutura de decisão composta (if, elif e else)
 laço while
