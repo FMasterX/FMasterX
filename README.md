@@ -16,32 +16,32 @@ Acompanhar o mundo eletrônico
 
 <ul>
     <li>Tenho experiencia com:</li>
-    <li>Linguagem Python<li>
-    <li>estrutura de decisão composta (if, elif e else)<li>
-    <li>laço while<li>
-    <li>laço in break<li>
-    <li>def<li>
-    <li>Marketing Digital<li>
-    <li>Gerenciamento Contas<li>
-    <li>Campanhas no meta e Google ADS<li>
-    <li>Gerenciamento de saldo<li>
-    <li>Gerenciamento de contas<li>
-    <li>Programação Orientada a objetos POO<li>
-    <li>Utilizar o GitHub<li>
-    <li>Utilizar o Prompt de comandos(manipulação de dados)<li>
-    <li>Tabela XOR<li>
-    <li>Inglês Básico<li>
-    <li>Diagramas<li>
-    <li>Fluxo Gramas<li>
-    <li>Sprints<li>
-    <li>Redes de comunicação<li>
-    <li>Camadas de rede<li>
-    <li>Protocolo TCP/IP<li>
-    <li>Equipamentos da primeira, segunda e terceira camada<li>
-    <li>Operador Lógico<li>
-    <li>Modos do Wi-fi<li>
-    <li>Comandos Básicos do CMD<li>
-    <li>Criação de Branch<li>
-    <li>Criação de Branch<li>
-    <li>Protocolos (PPP, Labp e csma)<li>
+    <li>Linguagem Python</li>
+    <li>estrutura de decisão composta (if, elif e else)<Protocolos (PPP, Labp e csma)>
+    <li>laço while</li>
+    <li>laço in break</li>
+    <li>def</li>
+    <li>Marketing Digital</li>
+    <li>Gerenciamento Contas</li>
+    <li>Campanhas no meta e Google ADS</li>
+    <li>Gerenciamento de saldo</li>
+    <li>Gerenciamento de contas</li>
+    <li>Programação Orientada a objetos POO</li>
+    <li>Utilizar o GitHub</li>
+    <li>Utilizar o Prompt de comandos(manipulação de dados)</li>
+    <li>Tabela XOR</li>
+    <li>Inglês Básico</li>
+    <li>Diagramas</li>
+    <li>Fluxo Gramas</li>
+    <li>Sprints</li>
+    <li>Redes de comunicação</li>
+    <li>Camadas de rede</li>
+    <li>Protocolo TCP/IP</li>
+    <li>Equipamentos da primeira, segunda e terceira camada</li>
+    <li>Operador Lógico</li>
+    <li>Modos do Wi-fi</li>
+    <li>Comandos Básicos do CMD</li>
+    <li>Criação de Branch</li>
+    <li>Criação de Branch</li>
+    <li>Protocolos (PPP, Labp e csma)</li>
 </ul>
