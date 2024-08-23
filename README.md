@@ -2,7 +2,7 @@
 
 <h2> Sobre mim </h2>
 Olá, eu Felipe Pereira Dos Santos tenho 16 anos e estudo no Antonieta Borges Alves, estou no segundo ano do ensino médio. Faço um curso na escola de análise e desenvolvimento de sistemas. Meu Objetivo atual na área da programação é me desenvolver e trabalhar na área de segurança cibernética
-<h3>Hobbie</h3>
+<h2>Hobbie</h2>
 Jogar Vídeo Game
 ver documentários
 ver anime
@@ -12,7 +12,7 @@ ouvir música
 cozinhar
 Acompanhar o mundo eletrônico
 
-<h4> Experiencias </h4>
+<h2> Experiencias </h2>
 
 <ul>
     <li>Tenho experiencia com:</li>
