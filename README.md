@@ -15,36 +15,33 @@ Acompanhar o mundo eletrônico
 <h4> Experiencias </h4>
 
 <ul>
-    <li>Teste</li>
+    <li>Tenho experiencia com:</li>
+    <li>Linguagem Python<li>
+    <li>estrutura de decisão composta (if, elif e else)<li>
+    <li>laço while<li>
+    <li>laço in break<li>
+    <li>def<li>
+    <li>Marketing Digital<li>
+    <li>Gerenciamento Contas<li>
+    <li>Campanhas no meta e Google ADS<li>
+    <li>Gerenciamento de saldo<li>
+    <li>Gerenciamento de contas<li>
+    <li>Programação Orientada a objetos POO<li>
+    <li>Utilizar o GitHub<li>
+    <li>Utilizar o Prompt de comandos(manipulação de dados)<li>
+    <li>Tabela XOR<li>
+    <li>Inglês Básico<li>
+    <li>Diagramas<li>
+    <li>Fluxo Gramas<li>
+    <li>Sprints<li>
+    <li>Redes de comunicação<li>
+    <li>Camadas de rede<li>
+    <li>Protocolo TCP/IP<li>
+    <li>Equipamentos da primeira, segunda e terceira camada<li>
+    <li>Operador Lógico<li>
+    <li>Modos do Wi-fi<li>
+    <li>Comandos Básicos do CMD<li>
+    <li>Criação de Branch<li>
+    <li>Criação de Branch<li>
+    <li>Protocolos (PPP, Labp e csma)<li>
 </ul>
-Tenho experiencia com:
-Linguagem Python
-códigos que contem
-estrutura de decisão composta (if, elif e else)
-laço while
-laço in break
-def
-Marketing Digital:
-Gerenciar Contas
-Campanhas no meta e Google ADS
-Gerenciamento de saldo
-Gerenciamento de contas
-Lógica da programação:
-Programação Orientada a objetos POO
-Utilizar o Gil
-Utilizar o Prompt de comandos(manipulação de dados)
-Tabela XOR
-Inglês Básico
-Diagramas
-Fluxo Gramas
-Sprints
-Redes de comunicação
-Camadas de rede
-Protocolo TCP/IP
-Equipamentos da primeira, segunda e terceira camada
-Operador Lógico
-Modos do Wi-fi
-Comandos Básicos do CMD
-Criação de Branch
-Class
-Protocolos (PPP, Labp e csma)
