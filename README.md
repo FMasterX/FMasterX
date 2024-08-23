@@ -13,6 +13,10 @@ cozinhar
 Acompanhar o mundo eletrônico
 
 <h4> Experiencias </h4>
+
+<ul>
+    <li>Teste</li>
+</ul>
 Tenho experiencia com:
 Linguagem Python
 códigos que contem
